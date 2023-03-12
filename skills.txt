@@ -1,0 +1,42 @@
+ <!-- <p> I have following skills in web Designing</p>
+         <p>  &#9656HTML. HyperText Markup Language serves as the foundation for almost all websites and remains the most vital skill to learn for web design. ...
+</p><p>&#9656CSS.</p>
+    <p>&#9656JAVA.</p>
+        <p>&#9656MySQL</p>
+            <p>&#9656POSTGRESQl</p>
+                <p>&#9656JavaScript. </p>
+                    <p>&#9656Content Management Systems.</p>
+                        <p>&#9656Other Design Applications.</p> 
+                            <p>&#9656Web Server Management. </p>
+                                <p>&#9656Online Marketing. </p>
+<p>&#9656Responsive Design </p>-->
+no 2
+<!--  <p> I have following skills in Content Writing</p>
+        <p>&#9656 Adaptability. A great content writer understands that different clients have different needs when it comes to things like tone and voice.</p>
+            <p>&#9656Time Management. </p>
+                <p>&#9656Problem Solving. </p>
+                    <p>&#9656Grammar and Vocabulary.</p> 
+                        <p>&#9656Research Skills. </p>
+        <p>&#9656SEO and Content Strategy. </p>
+        <p>&#9656Creative Writing. </p>
+        <p>&#9656Editing.</p>-->\
+
+
+        <div class="card ">
+    <div class="box">
+        <i class="fa fa-line-chart"></i>
+        <div class="text">Content Writing</div></div>
+        <p>I promote companies' products and services by developing 
+            copy for websites, social media, marketing materials, and other platforms. 
+            I create both written and verbal media for both private and public consumption. 
+            Completely free trial, no card required.</p>
+      
+    </div>
+    <div class="card ">
+        <div class="box">
+            <i class="fa fa-code"></i>
+            <div class="text">Content Writing</div>
+            <p>I promote companies' products and services by developing 
+                copy for websites, social media, marketing materials, and other platforms. 
+                I create both written and verbal media for both private and public consumption. 
+                Completely free trial, no card required.</p>
